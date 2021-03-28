@@ -9,10 +9,10 @@ package main
 import "fmt"
 
 func main() {
-	var name string = "Mark"
-	var title string = "Senior Infrastructure Engineer"
+    var name string = "Mark"
+    var title string = "Senior Infrastructure Engineer"
 
-	fmt.Printf("Hi there, my name is %s and I'm a %s", name, title)
+    fmt.Printf("Hi there, my name is %s and I'm a %s", name, title)
 }
 ```
 
