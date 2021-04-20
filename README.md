@@ -34,4 +34,4 @@ Find more at https://markkerry.github.io
 
 <br>
 
-![azureAdmin](https://images.youracclaim.com/images/35d18649-95c6-4c78-b07a-cfc1362318f3/azure-administrator-associate.png)
+![azureAdmin](media/azureAdministrator.png)
