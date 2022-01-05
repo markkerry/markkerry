@@ -1,26 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
 <br>
 
+![about1](media/about1.svg)
 
-```go
-package main
-
-import "fmt"
-
-func main() {
-    var name string = "Mark"
-    var title string = "Senior Infrastructure Engineer"
-
-    fmt.Printf("Hi there, my name is %s and I'm a %s", name, title)
-}
-```
-
-```terminal
-go run hi.go  
-
-Hi there, my name is Mark and I'm a Senior Infrastructure Engineer
-```
+![about2](media/about2.svg)
 
 <br>
 
