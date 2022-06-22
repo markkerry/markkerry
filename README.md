@@ -34,3 +34,5 @@ Find more at https://markkerry.github.io
 <br>
 
 ![azureAdmin](media/azureAdministrator.png)
+
+![cs50p](media/CS50P.png)
