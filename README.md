@@ -9,7 +9,7 @@ import "fmt"
 
 func main() {
     var name string = "Mark"
-    var title string = "Senior Infrastructure Engineer"
+    var title string = "Site Reliability Engineer"
 
     fmt.Printf("Hi there, my name is %s and I'm a %s,\n", name, title)
 }
@@ -18,7 +18,7 @@ func main() {
 ```terminal
 go run hi.go  
 
-Hi there, my name is Mark and I'm a Senior Infrastructure Engineer
+Hi there, my name is Mark and I'm a Site Reliability Engineer
 ```
 
 <br>
